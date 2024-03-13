@@ -5,7 +5,7 @@
         <content />
         <Input/>
         <button text = "text"/>
-        <button text = "Ok"/>
+        <button text = "cancel"/>
 
     </Page>
 </mvc:View>
