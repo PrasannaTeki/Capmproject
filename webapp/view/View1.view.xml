@@ -5,6 +5,7 @@
         <content />
         <Input/>
         <button text = "text"/>
+        <button text = "Ok"/>
 
     </Page>
 </mvc:View>
