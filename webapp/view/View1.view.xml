@@ -3,9 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content />
-        <Button text="Hi">
-        </Button>
-        <Button text ="hello world">
-        </Button>
+        <Input/>
+        <button text = "submit"/>
+
     </Page>
 </mvc:View>
