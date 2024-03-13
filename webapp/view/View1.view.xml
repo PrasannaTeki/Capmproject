@@ -4,7 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content />
         <Input/>
-        <button text = "submit"/>
+        <button text = "text"/>
 
     </Page>
 </mvc:View>
